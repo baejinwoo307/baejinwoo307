@@ -1,5 +1,7 @@
 ## Hi there 👋
-안녕하세요
+영남대학교에 재학중인 컴퓨터공학과 배진우입니다.
+현재 2학년 입니다.
+
 <!--
 **baejinwoo307/baejinwoo307** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
